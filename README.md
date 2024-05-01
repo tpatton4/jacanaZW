@@ -1,4 +1,4 @@
-# jacanaZW
+# Jacana Z and W chromosomes
 
 ## Prepare genome and annotation files
 If you haven't already, install biopython using `pip install biopython`
@@ -11,7 +11,7 @@ Here are the reference species for this project:
 [Taeniopygia guttata](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003957565.2/)
 [Calidris pugnax](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001431845.1/)
 
-# Create a BLAST database
+## Create a BLAST database
 
 Make a BLAST database for each genome using 'makeblastdb' from the BLAST+ suite
 
