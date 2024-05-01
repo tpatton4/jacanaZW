@@ -14,4 +14,6 @@ Here are the reference species for this project:
 # Create a BLAST database
 
 Make a BLAST database for each genome using 'makeblastdb' from the BLAST+ suite
-`makeblastdb -in 
+
+`makeblastdb -in [your_genome.fasta] -dbtype nucl -out [desired_database_name]`
+
